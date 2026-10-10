@@ -1,0 +1,755 @@
+{
+  "Canine 20 mm": {
+    "vertices": 38528,
+    "triangles": 77052,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 3083.26,
+    "dimensions_mm": [
+      17.28,
+      13.13,
+      45.0
+    ],
+    "bounds_mm": [
+      [
+        -8.354487419128418,
+        -6.58970308303833,
+        -20.0
+      ],
+      [
+        8.927421569824219,
+        6.545260429382324,
+        25.0
+      ]
+    ],
+    "crown_height_mm": 25.0,
+    "size_set_mm": 20,
+    "object_name": "Canine 20 mm set | 25 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/20mm/canine-20mm.stl"
+  },
+  "Incisor 20 mm": {
+    "vertices": 34061,
+    "triangles": 68118,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 2076.56,
+    "dimensions_mm": [
+      15.69,
+      9.25,
+      40.0
+    ],
+    "bounds_mm": [
+      [
+        -7.570753574371338,
+        -4.624610424041748,
+        -20.0
+      ],
+      [
+        8.117579460144043,
+        4.623851776123047,
+        20.0
+      ]
+    ],
+    "crown_height_mm": 20,
+    "size_set_mm": 20,
+    "object_name": "Incisor 20 mm set | 20 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/20mm/incisor-20mm.stl"
+  },
+  "Premolar 20 mm": {
+    "vertices": 38624,
+    "triangles": 77244,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 2930.76,
+    "dimensions_mm": [
+      18.01,
+      12.59,
+      40.0
+    ],
+    "bounds_mm": [
+      [
+        -8.842819213867188,
+        -6.353252410888672,
+        -20.0
+      ],
+      [
+        9.168379783630371,
+        6.24086856842041,
+        20.0
+      ]
+    ],
+    "crown_height_mm": 20,
+    "size_set_mm": 20,
+    "object_name": "Premolar 20 mm set | 20 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/20mm/premolar-20mm.stl"
+  },
+  "Molar 20 mm": {
+    "vertices": 47648,
+    "triangles": 95292,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 3567.22,
+    "dimensions_mm": [
+      19.91,
+      13.78,
+      40.0
+    ],
+    "bounds_mm": [
+      [
+        -9.792019844055176,
+        -6.9654974937438965,
+        -20.0
+      ],
+      [
+        10.117002487182617,
+        6.815970420837402,
+        20.0
+      ]
+    ],
+    "crown_height_mm": 20,
+    "size_set_mm": 20,
+    "object_name": "Molar 20 mm set | 20 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/20mm/molar-20mm.stl"
+  },
+  "Canine 25 mm": {
+    "vertices": 39307,
+    "triangles": 78610,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 5570.32,
+    "dimensions_mm": [
+      21.6,
+      16.42,
+      51.25
+    ],
+    "bounds_mm": [
+      [
+        -10.443109512329102,
+        -8.237129211425781,
+        -20.0
+      ],
+      [
+        11.159276962280273,
+        8.181575775146484,
+        31.25
+      ]
+    ],
+    "crown_height_mm": 31.25,
+    "size_set_mm": 25,
+    "object_name": "Canine 25 mm set | 31.25 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/25mm/canine-25mm.stl"
+  },
+  "Incisor 25 mm": {
+    "vertices": 36860,
+    "triangles": 73716,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 3591.62,
+    "dimensions_mm": [
+      19.61,
+      11.56,
+      45.0
+    ],
+    "bounds_mm": [
+      [
+        -9.463441848754883,
+        -5.780762672424316,
+        -20.0
+      ],
+      [
+        10.146974563598633,
+        5.77981424331665,
+        25.0
+      ]
+    ],
+    "crown_height_mm": 25,
+    "size_set_mm": 25,
+    "object_name": "Incisor 25 mm set | 25 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/25mm/incisor-25mm.stl"
+  },
+  "Premolar 25 mm": {
+    "vertices": 40336,
+    "triangles": 80668,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 5267.07,
+    "dimensions_mm": [
+      22.51,
+      15.74,
+      45.0
+    ],
+    "bounds_mm": [
+      [
+        -11.053524017333984,
+        -7.941565990447998,
+        -20.0
+      ],
+      [
+        11.460474967956543,
+        7.801085472106934,
+        25.0
+      ]
+    ],
+    "crown_height_mm": 25,
+    "size_set_mm": 25,
+    "object_name": "Premolar 25 mm set | 25 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/25mm/premolar-25mm.stl"
+  },
+  "Molar 25 mm": {
+    "vertices": 49589,
+    "triangles": 99174,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 6509.9,
+    "dimensions_mm": [
+      24.89,
+      17.23,
+      45.0
+    ],
+    "bounds_mm": [
+      [
+        -12.24002456665039,
+        -8.70687198638916,
+        -20.0
+      ],
+      [
+        12.64625358581543,
+        8.519963264465332,
+        25.0
+      ]
+    ],
+    "crown_height_mm": 25,
+    "size_set_mm": 25,
+    "object_name": "Molar 25 mm set | 25 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/25mm/molar-25mm.stl"
+  },
+  "Canine 30 mm": {
+    "vertices": 39588,
+    "triangles": 79172,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 9281.65,
+    "dimensions_mm": [
+      25.92,
+      19.7,
+      57.5
+    ],
+    "bounds_mm": [
+      [
+        -12.531730651855469,
+        -9.884554862976074,
+        -20.0
+      ],
+      [
+        13.391132354736328,
+        9.817891120910645,
+        37.5
+      ]
+    ],
+    "crown_height_mm": 37.5,
+    "size_set_mm": 30,
+    "object_name": "Canine 30 mm set | 37.5 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/30mm/canine-30mm.stl"
+  },
+  "Incisor 30 mm": {
+    "vertices": 37748,
+    "triangles": 75492,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 5858.72,
+    "dimensions_mm": [
+      23.53,
+      13.87,
+      50.0
+    ],
+    "bounds_mm": [
+      [
+        -11.35612964630127,
+        -6.936915397644043,
+        -20.0
+      ],
+      [
+        12.176369667053223,
+        6.935777187347412,
+        30.0
+      ]
+    ],
+    "crown_height_mm": 30,
+    "size_set_mm": 30,
+    "object_name": "Incisor 30 mm set | 30 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/30mm/incisor-30mm.stl"
+  },
+  "Premolar 30 mm": {
+    "vertices": 40833,
+    "triangles": 81662,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 8755.26,
+    "dimensions_mm": [
+      27.02,
+      18.89,
+      50.0
+    ],
+    "bounds_mm": [
+      [
+        -13.264228820800781,
+        -9.529878616333008,
+        -20.0
+      ],
+      [
+        13.752570152282715,
+        9.361302375793457,
+        30.0
+      ]
+    ],
+    "crown_height_mm": 30,
+    "size_set_mm": 30,
+    "object_name": "Premolar 30 mm set | 30 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/30mm/premolar-30mm.stl"
+  },
+  "Molar 30 mm": {
+    "vertices": 50093,
+    "triangles": 100182,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 10902.78,
+    "dimensions_mm": [
+      29.86,
+      20.67,
+      50.0
+    ],
+    "bounds_mm": [
+      [
+        -14.688029289245605,
+        -10.448246002197266,
+        -20.0
+      ],
+      [
+        15.175504684448242,
+        10.223956108093262,
+        30.0
+      ]
+    ],
+    "crown_height_mm": 30,
+    "size_set_mm": 30,
+    "object_name": "Molar 30 mm set | 30 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/30mm/molar-30mm.stl"
+  },
+  "Canine 35 mm": {
+    "vertices": 39763,
+    "triangles": 79522,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 14461.64,
+    "dimensions_mm": [
+      30.24,
+      22.99,
+      63.75
+    ],
+    "bounds_mm": [
+      [
+        -14.620352745056152,
+        -11.531980514526367,
+        -20.0
+      ],
+      [
+        15.622987747192383,
+        11.454206466674805,
+        43.75
+      ]
+    ],
+    "crown_height_mm": 43.75,
+    "size_set_mm": 35,
+    "object_name": "Canine 35 mm set | 43.75 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/35mm/canine-35mm.stl"
+  },
+  "Incisor 35 mm": {
+    "vertices": 38086,
+    "triangles": 76168,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 9024.04,
+    "dimensions_mm": [
+      27.45,
+      16.18,
+      55.0
+    ],
+    "bounds_mm": [
+      [
+        -13.248818397521973,
+        -8.09306812286377,
+        -20.0
+      ],
+      [
+        14.205763816833496,
+        8.091740608215332,
+        35.0
+      ]
+    ],
+    "crown_height_mm": 35,
+    "size_set_mm": 35,
+    "object_name": "Incisor 35 mm set | 35 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/35mm/incisor-35mm.stl"
+  },
+  "Premolar 35 mm": {
+    "vertices": 41059,
+    "triangles": 82114,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 13624.21,
+    "dimensions_mm": [
+      31.52,
+      22.04,
+      55.0
+    ],
+    "bounds_mm": [
+      [
+        -15.474934577941895,
+        -11.118191719055176,
+        -20.0
+      ],
+      [
+        16.04466438293457,
+        10.921520233154297,
+        35.0
+      ]
+    ],
+    "crown_height_mm": 35,
+    "size_set_mm": 35,
+    "object_name": "Premolar 35 mm set | 35 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/35mm/premolar-35mm.stl"
+  },
+  "Molar 35 mm": {
+    "vertices": 50313,
+    "triangles": 100622,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 17034.34,
+    "dimensions_mm": [
+      34.84,
+      24.12,
+      55.0
+    ],
+    "bounds_mm": [
+      [
+        -17.13603401184082,
+        -12.189620018005371,
+        -20.0
+      ],
+      [
+        17.704755783081055,
+        11.927947998046875,
+        35.0
+      ]
+    ],
+    "crown_height_mm": 35,
+    "size_set_mm": 35,
+    "object_name": "Molar 35 mm set | 35 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/35mm/molar-35mm.stl"
+  },
+  "Canine 40 mm": {
+    "vertices": 39826,
+    "triangles": 79648,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 21354.8,
+    "dimensions_mm": [
+      34.56,
+      26.27,
+      70.0
+    ],
+    "bounds_mm": [
+      [
+        -16.708974838256836,
+        -13.17940616607666,
+        -20.0
+      ],
+      [
+        17.854843139648438,
+        13.090520858764648,
+        50.0
+      ]
+    ],
+    "crown_height_mm": 50.0,
+    "size_set_mm": 40,
+    "object_name": "Canine 40 mm set | 50 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/40mm/canine-40mm.stl"
+  },
+  "Incisor 40 mm": {
+    "vertices": 38238,
+    "triangles": 76472,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 13236.71,
+    "dimensions_mm": [
+      31.38,
+      18.5,
+      60.0
+    ],
+    "bounds_mm": [
+      [
+        -15.141507148742676,
+        -9.249220848083496,
+        -20.0
+      ],
+      [
+        16.235158920288086,
+        9.247703552246094,
+        40.0
+      ]
+    ],
+    "crown_height_mm": 40,
+    "size_set_mm": 40,
+    "object_name": "Incisor 40 mm set | 40 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/40mm/incisor-40mm.stl"
+  },
+  "Premolar 40 mm": {
+    "vertices": 41243,
+    "triangles": 82482,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 20103.74,
+    "dimensions_mm": [
+      36.02,
+      25.19,
+      60.0
+    ],
+    "bounds_mm": [
+      [
+        -17.685638427734375,
+        -12.706504821777344,
+        -20.0
+      ],
+      [
+        18.336759567260742,
+        12.48173713684082,
+        40.0
+      ]
+    ],
+    "crown_height_mm": 40,
+    "size_set_mm": 40,
+    "object_name": "Premolar 40 mm set | 40 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/40mm/premolar-40mm.stl"
+  },
+  "Molar 40 mm": {
+    "vertices": 50527,
+    "triangles": 101050,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 25194.09,
+    "dimensions_mm": [
+      39.82,
+      27.56,
+      60.0
+    ],
+    "bounds_mm": [
+      [
+        -19.58403968811035,
+        -13.930994987487793,
+        -20.0
+      ],
+      [
+        20.234004974365234,
+        13.631940841674805,
+        40.0
+      ]
+    ],
+    "crown_height_mm": 40,
+    "size_set_mm": 40,
+    "object_name": "Molar 40 mm set | 40 mm crown",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5,
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "sizes/40mm/molar-40mm.stl"
+  },
+  "Mount fit test": {
+    "vertices": 2208,
+    "triangles": 4412,
+    "connected_components": 1,
+    "non_manifold_edges": 0,
+    "inconsistent_normal_edges": 0,
+    "degenerate_triangles": 0,
+    "non_adjacent_triangle_intersections": 0,
+    "positive_volume_mm3": 561.45,
+    "dimensions_mm": [
+      7.5,
+      7.5,
+      22.5
+    ],
+    "bounds_mm": [
+      [
+        -3.75,
+        -3.75,
+        -20.0
+      ],
+      [
+        3.75,
+        3.75,
+        2.5
+      ]
+    ],
+    "mount_surface_sha256": "64bd3cc0e46a48366e67bf31ba4aa14dffb558bf7e873ba149a2b066632a4015",
+    "mount_triangles": 4126,
+    "stl_file": "project/mount-fit-test-20mm.stl",
+    "mount_length_mm": 20.0,
+    "shaft_diameter_mm": 5.0,
+    "barb_diameter_mm": 7.5
+  }
+}

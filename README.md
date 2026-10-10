@@ -1,2 +1,58 @@
-# jackolantern_teeth_3d_print
-3D printable teeth for halloween jack-o-lanterns.  Various sizes with barbs for inserting into pumpkins
+# Jack-o'-lantern teeth
+
+3D-printable pumpkin teeth by [Eric Cheng](http://echeng.com), released under the
+[MIT license](LICENSE).
+
+Four rounded, worn tooth designs share a fixed barbed harpoon for inserting into
+a carved pumpkin: canine, incisor, premolar and molar. Each comes in five size
+sets, with different front and back faces for variety when rotated 180 degrees.
+
+![Tooth designs and size sets](teeth-sizes-preview.png)
+
+## Download and print
+
+Choose a folder in [sizes/](sizes/) and import its STL files into your slicer at
+100% scale in millimeters. Print four copies of each design for four canines and
+twelve assorted teeth.
+
+| Size set | Incisor, premolar and molar crown | Canine crown |
+| --- | --- | --- |
+| 20 mm | 20 mm | 25 mm |
+| 25 mm | 25 mm | 31.25 mm |
+| 30 mm | 30 mm | 37.5 mm |
+| 35 mm | 35 mm | 43.75 mm |
+| 40 mm | 40 mm | 50 mm |
+
+All harpoons are 20 mm long with a 5 mm shaft and 7.5 mm maximum barb diameter.
+Total length is crown height plus 20 mm. Select a supplied size to preserve the
+mount dimensions. Test the [mount sample](project/mount-fit-test-20mm.stl) in your
+pumpkin before printing a full set.
+
+The main [README.txt](README.txt) contains printing instructions and Bambu Studio
+settings for a lightly filled crown with a solid harpoon. Bambu Studio `.3mf`
+project is also included for the 25 mm set. Check its included
+models and settings before printing; updating the STLs does not update geometry
+already imported into a `.3mf` project.
+
+Use **Code → Download ZIP** to download the repository. Separate size packs can
+be generated with `python3 scripts/package_teeth.py`; generated ZIPs are excluded
+from Git because they duplicate the tracked files.
+
+## Edit the designs
+
+Open [project/pumpkin-teeth-sized.blend](project/pumpkin-teeth-sized.blend) in
+Blender, or edit [scripts/build_teeth.py](scripts/build_teeth.py). The generator is
+also embedded in the Blender project as `Rebuild teeth.py`.
+
+[README-FOR-CHATGPT.md](README-FOR-CHATGPT.md) explains the parameters, mount
+constraints, rebuild workflow and validation requirements for future agents and
+human contributors. Scripts use paths relative to this repository. Geometry was
+built and checked with Blender 5.2.2 LTS.
+
+## Attribution and license
+
+Copyright © 2026 Eric Cheng. [http://echeng.com](http://echeng.com).
+
+The designs, source and documentation are provided under the [MIT license](LICENSE).
+Retain the copyright and license notice when redistributing copies or substantial
+portions of this project.
