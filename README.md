@@ -23,8 +23,9 @@ twelve assorted teeth.
 | 35 mm | 35 mm | 43.75 mm |
 | 40 mm | 40 mm | 50 mm |
 
-All harpoons are 20 mm long with a 5 mm shaft and 7.5 mm maximum barb diameter.
-Total length is crown height plus 20 mm. Select a supplied size to preserve the
+Every size set uses the same harpoon: 20 mm extending below the crown, a 5 mm
+shaft diameter, and a 7.5 mm maximum barb diameter. Overall length is the actual
+crown height plus 20 mm. Select a supplied size to preserve the
 mount dimensions. Test the [mount sample](project/mount-fit-test-20mm.stl) in your
 pumpkin before printing a full set.
 

@@ -3,7 +3,8 @@
 """Pumpkin teeth, millimeter geometry. Run in Blender's Text Editor to rebuild.
 
 Edit CROWN_HEIGHTS_MM for size sets; canines are 25% taller than each set size.
-The mounting harpoon is 20 mm long, with a 5 mm core and 7.5 mm barbs.
+The mounting harpoon extends 20 mm below the crown, with a 5 mm shaft
+diameter and 7.5 mm maximum barb diameter.
 Outputs use the sizes/, project/, and zips/ folder organization.
 """
 import bpy
@@ -450,8 +451,10 @@ two-cusp premolar and a broad, blunt molar with uneven worn lobes and chipped
 shoulders. Print four copies of each design for four canines and twelve
 assorted teeth (four incisors, four premolars and four molars), sixteen total.
 
-Mount: 20 mm below the root plane, 5 mm shaft, 7.5 mm maximum barb diameter,
-two circular barbs and a 7 mm root collar. All 20 teeth and the mount test share
+Every size set uses the same harpoon: 20 mm extending below the crown, a 5 mm
+shaft diameter, and a 7.5 mm maximum barb diameter. Overall length is the actual
+crown height plus 20 mm. The mount has two circular barbs and a 7 mm root collar.
+All 20 teeth and the mount test share
 identical triangulated surfaces at and below z=0. Hashes are in the validation
 report. The upper end of the mount extends 2.5 mm inside the crown for the union.
 
