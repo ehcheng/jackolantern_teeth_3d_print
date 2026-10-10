@@ -15,13 +15,16 @@ Choose a folder in [sizes/](sizes/) and import its STL files into your slicer at
 100% scale in millimeters. Print four copies of each design for four canines and
 twelve assorted teeth.
 
-| Size set | Incisor, premolar and molar crown | Canine crown |
-| --- | --- | --- |
-| 20 mm | 20 mm | 25 mm |
-| 25 mm | 25 mm | 31.25 mm |
-| 30 mm | 30 mm | 37.5 mm |
-| 35 mm | 35 mm | 43.75 mm |
-| 40 mm | 40 mm | 50 mm |
+Ready-to-print ZIPs include the four STL designs, mount fit test, printing
+instructions and MIT license. Each size pack is about 9–10 MB.
+
+| Size set | Incisor, premolar and molar crown | Canine crown | STL download |
+| --- | --- | --- | --- |
+| 20 mm | 20 mm | 25 mm | [20 mm ZIP](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-20mm-STLs.zip) |
+| 25 mm | 25 mm | 31.25 mm | [25 mm ZIP](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-25mm-STLs.zip) |
+| 30 mm | 30 mm | 37.5 mm | [30 mm ZIP](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-30mm-STLs.zip) |
+| 35 mm | 35 mm | 43.75 mm | [35 mm ZIP](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-35mm-STLs.zip) |
+| 40 mm | 40 mm | 50 mm | [40 mm ZIP](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-40mm-STLs.zip) |
 
 Every size set uses the same harpoon: 20 mm extending below the crown, a 5 mm
 shaft diameter, and a 7.5 mm maximum barb diameter. Overall length is the actual
@@ -35,9 +38,14 @@ project is also included for the 25 mm set. Check its included
 models and settings before printing; updating the STLs does not update geometry
 already imported into a `.3mf` project.
 
-Use **Code → Download ZIP** to download the repository. Separate size packs can
-be generated with `python3 scripts/package_teeth.py`; generated ZIPs are excluded
-from Git because they duplicate the tracked files.
+The [complete design pack](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases/download/v1.0.0/pumpkin-teeth-20-40mm.zip)
+includes all 20 STLs, the editable Blender master, preview and documentation,
+about 94 MB. All downloads are listed on the [Releases page](https://github.com/ehcheng/jackolantern_teeth_3d_print/releases).
+
+Use **Code → Download ZIP** for the repository, including the maintenance scripts
+and 25 mm Bambu Studio project. Regenerate the six release packages with
+`python3 scripts/package_teeth.py`. Generated ZIPs are distributed as release
+assets and excluded from Git because they duplicate the tracked files.
 
 ## Edit the designs
 
